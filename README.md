@@ -1,5 +1,5 @@
 # Hi, my name is Alvaro and this is my profile 🙂!!
-**I'm currently learning *computer* *science* and *C* 📖**
+**I'm currently learning *computer* *science*, *C* and ***GIT*** 📖**
 
 **I'm a begginer and I'm loving this journey of computer science and programming 💻**
 
