@@ -4,6 +4,8 @@
 **I'm a begginer and I'm loving this journey of computer science and programming 💻**
 
 **I'm taking the CS50 Free Course From Havard University 🧑‍🎓**
+
+**I'm learning ***Linux*** too** 
 <!--
 **AlvaroAndLukeTheCoder/AlvaroAndLukeTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
