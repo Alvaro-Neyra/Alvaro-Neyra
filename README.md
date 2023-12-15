@@ -6,7 +6,7 @@
 
 **I'm taking the CS50 Free Course From Havard University** 🧑‍🎓
 
-**Linux Fan 🐧** 
+**Linux Fan** 🐧 
 
 **Always looking to improve** 😎
 <!--
