@@ -1,11 +1,14 @@
 # Hi, my name is Alvaro and this is my profile 🙂!!
-**I'm currently learning *computer* *science*, *C* and ***GIT*** 📖**
 
-**I'm a begginer and I'm loving this journey of computer science and programming 💻**
+**I'm currently learning Software Engineering** 📖
 
-**I'm taking the CS50 Free Course From Havard University 🧑‍🎓**
+**I'm a begginer and I'm loving this journey of computer science and programming** 💻
 
-**I'm learning ***Linux*** too** 
+**I'm taking the CS50 Free Course From Havard University** 🧑‍🎓
+
+**Linux Fan 🐧** 
+
+**Always looking to improve** 😎
 <!--
 **AlvaroAndLukeTheCoder/AlvaroAndLukeTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
