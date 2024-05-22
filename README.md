@@ -1,10 +1,11 @@
 # Hi, my name is Alvaro and this is my profile 🙂!!
 
-**I'm currently learning Software Engineering** 📖
+**I'm currently studying Computer Science** 📖
 
 **I'm a begginer and I'm loving this journey of computer science and programming** 💻
 
-**I'm taking the CS50 Free Course From Havard University** 🧑‍🎓
+✅ **CS50 Free Course From Havard University** 🧑‍🎓
+✅ **Responsive web design Freecodecamp course** 🧑🏻‍💻
 
 **Linux Fan** 🐧 
 
