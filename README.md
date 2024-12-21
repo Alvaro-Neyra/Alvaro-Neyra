@@ -1,6 +1,6 @@
 
 <h1 style="display: flex; justify-context: flex-start;align-items: center;">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="50">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">
     Hey there! I'm Alvaro
 </h1>
 
@@ -78,7 +78,7 @@ Feel free to check out my work here on GitHub! 😊
 </a>
 
 <h2 style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px; margin: 3vw;">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="35" />&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="25" />&nbsp;
     Connect with me
 </h2>
 
