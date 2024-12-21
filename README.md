@@ -1,5 +1,5 @@
 
-<h1 style="display: flex; justify-context: flex-start;align-items: center;">
+<h1 align="left" style="vertical-align: middle;">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">
     Hey there! I'm Alvaro
 </h1>
@@ -27,7 +27,7 @@
 - Full Stack Development Certificate (Egg Live)
 
 ✉️&nbsp;Want to get in touch? Send me an email at alvaro.neyra.salazar@gmail.com.\
-📄&nbsp;Check out my CV [here](https://docs.google.com/document/d/1HxxPHkJuxMeZ8lV6PJ4MDM3vqWy_bIzq/edit?usp=sharing&ouid=114615815363335629229&rtpof=true&sd=true).
+📄&nbsp;Check out my CV <a target="_blank" href="https://docs.google.com/document/d/1HxxPHkJuxMeZ8lV6PJ4MDM3vqWy_bIzq/edit?usp=sharing&ouid=114615815363335629229&rtpof=true&sd=true">here</a>.
 
 🌟&nbsp;I thrive in collaborative environments, constantly learning and solving challenges to deliver scalable, innovative solutions.
 Feel free to check out my work here on GitHub! 😊
