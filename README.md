@@ -1,11 +1,12 @@
-
-<h1 align="left" style="vertical-align: middle;">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">
-    Hey there! I'm Alvaro
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75" align="left">
+<h1>
+    Hey there!
+    <br>
+    I'm Alvaro
 </h1>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"/>
 </div>
 
 
