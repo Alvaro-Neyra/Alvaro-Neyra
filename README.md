@@ -9,10 +9,10 @@
 </div>
 
 
-<p style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px;">
+<h2 style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px;">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp;
     About me
-</p>
+</h2>
 
 👋&nbsp; I'm a passionate Computer Science student focused on Full Stack Development.\
 💻&nbsp; I specialize in Java, Spring Boot, React, and SQL, building dynamic and responsive web applications.\
@@ -32,10 +32,10 @@
 🌟&nbsp;I thrive in collaborative environments, constantly learning and solving challenges to deliver scalable, innovative solutions.
 Feel free to check out my work here on GitHub! 😊
 
-<p style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px;">
+<h2 style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px;">
 <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="50" height="50"/>&nbsp;
     Tech Stack
-</p>
+</h2>
 
 <div align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML">
@@ -67,20 +67,20 @@ Feel free to check out my work here on GitHub! 😊
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="INTELLIJ IDEA">
 </div>
 
-<p style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px;">
+<h2 style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px;">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="50">&nbsp;
     GitHub Stats
-</p>
+</h2>
 
 <a href="https://github.com/Alvaro-Neyra" style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center; gap: 3vw;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alvaro-Neyra&theme=jolly&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Neyra&layout=compact&theme=jolly"/>
 </a>
 
-<p style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px; margin: 3vw;">
+<h2 style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px; margin: 3vw;">
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="50" />&nbsp;
     Connect with me
-</p>
+</h2>
 
 <div align="center">
 <a href="https://www.linkedin.com/in/alvaro-neyra/" target="_blank">
