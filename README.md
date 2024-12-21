@@ -1,15 +1,18 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75" align="left">
-<h1>
+
+<h1 style="display: flex; justify-context: flex-start;align-items: center;">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="75">
     Hey there! I'm Alvaro
 </h1>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000"/>
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1000">
 </div>
 
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50" align="left">&nbsp;
-<p valign="center">About me</p>
+<p style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px;">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="50">&nbsp;
+    About me
+</p>
 
 👋&nbsp; I'm a passionate Computer Science student focused on Full Stack Development.\
 💻&nbsp; I specialize in Java, Spring Boot, React, and SQL, building dynamic and responsive web applications.\
