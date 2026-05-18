@@ -67,16 +67,6 @@ Feel free to check out my work here on GitHub! 😊
 <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" title="INTELLIJ IDEA">
 </div>
 
-<h2 style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px;">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="50">&nbsp;
-    GitHub Stats
-</h2>
-
-<a href="https://github.com/Alvaro-Neyra" style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center; gap: 3vw;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alvaro-Neyra&theme=jolly&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-Neyra&layout=compact&theme=jolly"/>
-</a>
-
 <h2 style="display: flex; justify-context: flex-start;align-items: center;  font-size: 25px; margin: 3vw;">
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="25" />&nbsp;
     Connect with me
